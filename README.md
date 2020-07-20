@@ -6,4 +6,5 @@ Basit bir şekilde kullanıcı bilgileri uygulaması yapılmıştır.
 * Yeni bilgi eklenmesi    (CR - Create)
 * Bilgilerin düzenlenmesi (U - Update)
 * Bilgilerin silinmesi    (D - Delete)
+
 Temel düzey Crud işlemleri Sqflite kullanarak gerçekleştirilmiştir.  
